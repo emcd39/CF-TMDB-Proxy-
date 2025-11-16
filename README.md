@@ -12,7 +12,6 @@
 - Node 版本放宽 `Cross-Origin-Resource-Policy`，Cloudflare Workers 也同步在 `corsHeaders` 里设置 `cross-origin`，保证前端可跨站加载图片，不再出现破图。
 - Cloudflare Workers 版本同样复用新的 CORS 头
 
-<img width="1306" height="922" alt="image" src="https://github.com/user-attachments/assets/297f6361-7f0c-4e7f-b447-1c409e632b9b" />
 <img width="1177" height="620" alt="image" src="https://github.com/user-attachments/assets/c901411b-73b9-4c24-8026-79cd5040c900" />
 
 
