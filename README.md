@@ -2,10 +2,17 @@
 
 MP交流群：https://t.me/moviepilot_official （我是 咚咚咚）
 
-部署好绑定自己域名后
+部署好绑定自己域名后 必须绑定自己域名 必须绑定自己域名 必须绑定自己域名 CF给的预览域名自带墙！
 记得在路径 MOVIEPILOT v2 设定-系统-高级设置-添加上去 xx.org  与网络-安全域名里面 也需要添加上去保存-保存-重启MP应用
 
-<img width="1399" height="354" alt="image" src="https://github.com/user-attachments/assets/283f5dc8-b977-4597-bc9f-6a8abb01cdfa" />
+自定义api https://www.themoviedb.org/settings/api 自助注册申请
+API 密钥 MP环境上填写如下参数，有效提高TMDB请求率。
+- 'TMDB_API_KEY=xxx'
+
+<img width="1403" height="972" alt="image" src="https://github.com/user-attachments/assets/bd89a46f-806d-4626-980a-08b8ff38467c" />
+<img width="1378" height="1209" alt="image" src="https://github.com/user-attachments/assets/d194d295-93f5-487c-9efe-87d34f71f09b" />
+
+
 
 2025-11-18 MP更新认证资源版本2.4.3不然会报错 ,cf炸了会导致代理失效
 
